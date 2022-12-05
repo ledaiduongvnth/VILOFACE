@@ -1,6 +1,7 @@
-# YOLO-face: A face detector based on You Only Look Once
+# VILOFACE: A face detector based on You Only Look Once
 
 Thanks to the official implementation of YOLOv7 https://github.com/WongKinYiu/yolov7
+Thanks to the initial implementation of YOLOv7-face https://github.com/derronqi/yolov7-face
 
 ## Prerequisite
 * python 3.9 or higher
@@ -63,3 +64,5 @@ pip install python-widerface
 ## Train and test the the YOLOv7 model
 The methods of training model are refered from [The offical Implementation of YOLOv7](https://github.com/WongKinYiu/yolov7). An example of training is given in ```training_example.sh``` file (GPU inference is required). 
 
+Model weight that achieve 81.45 AP on WiderFace validation hard set
+[VILOFACE]https://drive.google.com/file/d/19XlfTA9Yn6lo7XTujFeOsKJzXYRLuLza/view?usp=sharing
