@@ -1,0 +1,6 @@
+train: data/widerface/train
+val: data/widerface/val 
+
+nc: 1
+
+names: ['face']
