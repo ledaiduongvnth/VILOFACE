@@ -1,11 +1,18 @@
 # VILOFACE: A face detector based on You Only Look Once
 
 Thanks to the official implementation of YOLOv7 https://github.com/WongKinYiu/yolov7
+
+
 Thanks to the initial implementation of YOLOv7-face https://github.com/derronqi/yolov7-face
 
 ## Prerequisite
 * python 3.9 or higher
 * Ubuntu 18 or higher
+
+## Hardware:
+* GPU: 3 x NVIDIA RTX 2080Ti GPUs
+* CPU: 1 x intel core i9 9900K
+* RAM: 128 GB Ram
 
 ## Data preprocessing
 
